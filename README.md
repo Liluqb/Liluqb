@@ -1,4 +1,5 @@
 ## Hi, I'm Linda Luz 👋
+[💼 LinkedIn](www.linkedin.com/in/linda-luz-q-bracamonte-b1a972403) &nbsp;&nbsp; [📧 Email](mailto:luz.aris.br@gmail.com)
 
 ¡Bienvenid@ a mi perfil de GitHub! Actualmente soy estudiante de primer año del Ciclo Formativo de Grado Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)** en el **CIPFP Mislata**. 
 

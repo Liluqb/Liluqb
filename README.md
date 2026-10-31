@@ -1,6 +1,6 @@
 ## Hi, I'm Linda Luz 👋
 
-¡Bienvenido/a a mi perfil de GitHub! Actualmente soy estudiante de primer año del Ciclo Formativo de Grado Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)** en el **CIPFP Mislata**. 
+¡Bienvenid@ a mi perfil de GitHub! Actualmente soy estudiante de primer año del Ciclo Formativo de Grado Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)** en el **CIPFP Mislata**. 
 
 Este espacio lo utilizaré para realizar el seguimiento de mis asignaturas, organizar mis prácticas de código y documentar mi evolución en el desarrollo de software.
 
